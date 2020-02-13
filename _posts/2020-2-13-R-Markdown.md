@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Hello World"
 author: "KCSZ"
 date: "2/13/2020"
