@@ -1,13 +1,7 @@
 ---
 layout: post
 title: "Hello World"
-author: "KCSZ"
-date: "2/13/2020"
-output: 
-  html_document: 
-    keep_md: yes
 ---
-
 
 
 ## R Markdown
